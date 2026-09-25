@@ -1,6 +1,6 @@
 # AmigaOS cross-development on Linux
 
-This folder contains instructions on setting up C cross-development in Linux for AmigaOS and sample source-code + m68k binaries.
+This folder contains instructions on setting up C cross-development in Linux for AmigaOS / Workbench.
 
 You will need (open-source version of) LHA to uncompress the Amiga-specific archives (*.lha).
 
