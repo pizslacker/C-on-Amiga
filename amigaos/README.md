@@ -14,6 +14,7 @@ http://sun.hasenbraten.de/vbcc/
 For a step-by-step tutorial on how to set this all up, check out this YouTube-video by Wei-ju Wu:
 [Cross Development for the Amiga with VBCC](https://www.youtube.com/watch?v=vFV0oEyY92I&ab_channel=Wei-juWu)
 
+`wget` resource list:
 ```
 ### Cross-compiler
 wget http://server.owl.de/~frank/tags/vbcc0_9e.tar.gz
