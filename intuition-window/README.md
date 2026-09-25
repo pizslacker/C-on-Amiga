@@ -1,5 +1,5 @@
 # Intuition-window
 
-Sample C program that draws an AmgaOS window.
+Sample `C` program that draws an `AmigaOS` intuition window.
 
 The resulting binary from source code in this folder will be `AmigaOS loadseg()able` executable/binary-type, and can only be run on emulated **AmigaOS v1.3 / v3.1 Workbench**, or real-world Amiga computers running **1.3 / 3.1 ROM + 1.3 / 3.1 Workbench**.
