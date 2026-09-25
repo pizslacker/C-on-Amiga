@@ -1,6 +1,6 @@
 # C on Amiga
 
-[Amiga](https://upload.wikimedia.org/wikipedia/commons/e/e9/Amiga-Logo-1985.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Amiga](https://upload.wikimedia.org/wikipedia/commons/e/e9/Amiga-Logo-1985.svg)
 
 [amigaos](amigaos) contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k`.
 
