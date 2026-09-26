@@ -10,7 +10,7 @@
 
 [Intuition](https://en.wikipedia.org/wiki/Intuition_(Amiga)) is the native windowing system and user interface (`UI`) engine of `AmigaOS`. It was developed almost entirely by **RJ Mical**.
 
-[intuition-window](intuition-window) contains sample `C` source code for `AmigaOS` / `Workbench`.
+[intuition-window](intuition-window) contains sample `C` source code for `AmigaOS` / `Amiga Workbench`.
 
 ### Sample Intuition Window programmed in **Amiga C**
 ![Kims window](images/AmigaOS-32-Kims-Window-2021.png)
