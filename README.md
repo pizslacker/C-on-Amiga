@@ -6,6 +6,8 @@
 
 [amigaos-dev](amigaos-dev) contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k`.
 
+Intuition is the native windowing system and user interface (`UI`) engine of `AmigaOS`. It was developed almost entirely by **RJ Mical**.
+
 [intuition-window](intuition-window) contains sample `C` source code for `AmigaOS` / `Workbench`.
 
 ### Sample Intuition Window programmed in **Amiga C**
