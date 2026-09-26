@@ -8,4 +8,5 @@
 
 [intuition-window](intuition-window) contains sample `C` source code for `AmigaOS` / `Workbench`.
 
+### Intuition Window programmed in **Amiga C**
 ![Kims window](images/AmigaOS-32-Kims-Window-2021.png)
