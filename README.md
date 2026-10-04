@@ -14,7 +14,7 @@
 
 [amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
-[demo-launcher/](demo-launcher/) - contains source code for a intuition/AmigaOS demo-launcher program.
+[demo-launcher/](demo-launcher/) - contains source code for a intuition/AmigaOS (_windowed_) demo-launcher program.
 
 ## GUI / Windowing System
 
