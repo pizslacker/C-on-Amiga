@@ -3,6 +3,9 @@
 This folder contains instructions on setting up C cross-development in Linux for AmigaOS / Workbench.
 
 You will need (open-source version of) LHA to uncompress the Amiga-specific archives (*.lha).
+```bash
+sudo apt-get install lhasa
+```
 
 ## AmigaOS - C cross-development requirements
 
