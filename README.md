@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-[amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k`.
+[amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
 ## GUI / Windowing System
 
