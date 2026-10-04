@@ -36,7 +36,7 @@ int main(void)
         WA_Height,        150,
         WA_IDCMP,         IDCMP_CLOSEWINDOW,
         WA_Flags,         WFLG_SIZEGADGET | WFLG_DRAGBAR | WFLG_DEPTHGADGET | WFLG_CLOSEGADGET | WFLG_ACTIVATE,
-        WA_Title,         "Kims AmigaOS Window-test",
+        WA_Title,         "k!Ms AmigaOS Window-test",
         WA_PubScreenName, "Workbench",
         TAG_DONE);
 
