@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-¤¤¤ Needed:
+### Needed:
 - LHA
 - VBCC
 - NDK
