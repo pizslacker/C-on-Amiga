@@ -22,7 +22,7 @@
 
    > Not to be confused with [`Workbench`](https://en.wikipedia.org/wiki/Workbench_(AmigaOS)), which is the desktop environment and graphical file manager in `AmigaOS`.
 
-[intuition-window/](intuition-window/) - contains sample `C` source code for `AmigaOS` / `Amiga Workbench`.
+[intuition-window/](intuition-window/) - contains sample `C` source code for a simple `AmigaOS` / `Workbench` window.
 
 ### Sample Intuition Window programmed in **Amiga C**
 ![Kims window](images/AmigaOS-32-Kims-Window-2021.png)
