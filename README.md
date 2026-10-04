@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-[amigaos-dev](amigaos-dev) contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k`.
+[amigaos-dev/](amigaos-dev/) contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k`.
 
 ## GUI / Windowing System
 
@@ -12,7 +12,7 @@
 
 Not to be confused with [`Workbench`](https://en.wikipedia.org/wiki/Workbench_(AmigaOS)), which is the desktop environment and graphical file manager in `AmigaOS`.
 
-[intuition-window](intuition-window) contains sample `C` source code for `AmigaOS` / `Amiga Workbench`.
+[intuition-window/](intuition-window/) contains sample `C` source code for `AmigaOS` / `Amiga Workbench`.
 
 ### Sample Intuition Window programmed in **Amiga C**
 ![Kims window](images/AmigaOS-32-Kims-Window-2021.png)
