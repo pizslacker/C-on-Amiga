@@ -4,6 +4,11 @@
 
 ## Getting Started
 
+¤¤¤ Needed:
+- LHA
+- VBCC
+- NDK
+
 [amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
 ## GUI / Windowing System
