@@ -5,9 +5,9 @@
 ## Getting Started
 
 ### Needed:
-- LHA
-- VBCC
-- NDK
+- LHA decompression tool (_lhasa_)
+- VBCC (_C Compiler for Amiga_)
+- NDK (_Development Kit_)
 
 [amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
