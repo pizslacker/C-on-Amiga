@@ -7,7 +7,9 @@
 ### Needed:
 - LHA decompression tool (_lhasa_)
 - VBCC (_C Compiler for Amiga_)
-- NDK (_Development Kit_)
+- NDK 3.9 (_Development Kit_)
+- VASM (_Assembler for Amiga_)
+- VLINK (_Linker for Amiga_)
 
 [amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
