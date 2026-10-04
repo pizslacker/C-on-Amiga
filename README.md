@@ -8,7 +8,7 @@
 
 ## GUI / Windowing System
 
-[Intuition](https://en.wikipedia.org/wiki/Intuition_(Amiga)) is the native windowing system and user interface (`UI`) engine of `AmigaOS`. It was developed almost entirely by **RJ Mical**.
+[Intuition](https://en.wikipedia.org/wiki/Intuition_(Amiga)) is the native windowing system and user interface (`GUI` if you will) engine of `AmigaOS`. It was developed almost entirely by **RJ Mical**.
 
 Not to be confused with [`Workbench`](https://en.wikipedia.org/wiki/Workbench_(AmigaOS)), which is the desktop environment and graphical file manager in `AmigaOS`.
 
