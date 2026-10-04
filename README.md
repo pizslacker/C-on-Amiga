@@ -1,4 +1,4 @@
-# C on Amiga
+# C development for Amiga, on Linux.
 
 ![Amiga](https://upload.wikimedia.org/wikipedia/commons/e/e9/Amiga-Logo-1985.svg)
 
