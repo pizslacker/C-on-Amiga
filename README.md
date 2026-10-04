@@ -14,6 +14,8 @@
 
 [amigaos-dev/](amigaos-dev/) - contains instructions on setting up `C` cross-development in Linux for `AmigaOS` / `m68k` arch.
 
+[demo-launcher/](demo-launcher/) - contains source code for a intuition/AmigaOS demo-launcher program.
+
 ## GUI / Windowing System
 
 [Intuition](https://en.wikipedia.org/wiki/Intuition_(Amiga)) is the native windowing system and user interface (`UI`) engine of `AmigaOS`. It was developed almost entirely by [**RJ Mical**](https://en.wikipedia.org/wiki/RJ_Mical).
