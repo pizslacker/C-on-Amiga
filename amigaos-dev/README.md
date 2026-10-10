@@ -12,7 +12,7 @@ sudo apt-get install lhasa
 The following packages are required to set up a cross-compiler environment for AmigaOS on Linux.
 
 We are using VBCC for cross-development/-compilation for AmigaOS, performed on Linux.
-http://sun.hasenbraten.de/vbcc/
+[http://sun.hasenbraten.de/vbcc/](http://sun.hasenbraten.de/vbcc/)
 
 For a step-by-step tutorial on how to set this all up, check out this YouTube-video by Wei-ju Wu:
 [Cross Development for the Amiga with VBCC](https://www.youtube.com/watch?v=vFV0oEyY92I&ab_channel=Wei-juWu)
