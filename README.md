@@ -8,7 +8,7 @@
 - LHA decompression tool (_lhasa_)
 - VBCC (_C Cross-Compiler for Amiga_)
 - Cross-compiler targets (`AmigaOS/m68k`)
-- NDK 3.9 (_Development Kit_)
+- NDK 3.9 (_AmigaOS 3.9 Native Development Kit_)
 - VASM (_Assembler for Amiga_)
 - VLINK (_Linker for Amiga_)
 
